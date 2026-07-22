@@ -3,7 +3,7 @@ theme:
   name: material
 nav:
   - 首页: index.md
-  - 文章: docs/
+  - 第一篇博客: 第一篇博客.md
 markdown_extensions:
   - toc:
       permalink: true
