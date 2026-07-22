@@ -1,0 +1,9 @@
+site_name: Zz-709的博客
+theme:
+  name: material
+nav:
+  - 首页: index.md
+  - 文章: docs/
+markdown_extensions:
+  - toc:
+      permalink: true
