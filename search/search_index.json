@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"],"fields":{"title":{"boost":1000.0},"text":{"boost":1.0},"tags":{"boost":1000000.0}}},"docs":[{"location":"%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/","title":"\u7b2c\u4e00\u7bc7\u6587\u7ae0","text":"<p>\u6210\u529f\u901a\u8fc7GitHub Actions\u81ea\u52a8\u90e8\u7f72\u53d1\u5e03\u3002</p>"}]}
